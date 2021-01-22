@@ -35,7 +35,7 @@
 
 <p><strong>PROJECT FEATURES</strong></p>
 <p>(a) Home Page:</p>
-<p align="center"><strong><img src="Images/homepage.png" alt="" width="500" height="300" /></strong></p>
+<p align="center"><strong><img src="Images/homepage.png" alt="" width="800" height="500" /></strong></p>
 <p>&nbsp;</p>
 
 

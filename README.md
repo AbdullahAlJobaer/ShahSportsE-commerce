@@ -40,7 +40,7 @@
 </ul>
 <p>&nbsp;</p>
 <p><strong>TECHNOLOGY</strong></p>
-<p><strong>GitHub</strong> has been used for this project. Used <strong>Basic Kanban Board</storng> of GitHub as the project management tool. For <em>Frontend</em> part, used <strong>HTML5</strong> and <strong>CSS3</strong> and <strong>Bootstrap 3</strong>. Used <strong>VS Code</strong> as IDE. On the other hand, for <em>Backend</em>, used <strong>Laravel Framework</strong> and <strong>MySQL</strong> for the database.</p>
+<p><strong>GitHub</strong> has been used for this project. Used <strong>Basic Kanban Board</strong> of GitHub as the project management tool. For <em>Frontend</em> part, used <strong>HTML5</strong> and <strong>CSS3</strong> and <strong>Bootstrap 3</strong>. Used <strong>VS Code</strong> as IDE. On the other hand, for <em>Backend</em>, used <strong>Laravel Framework</strong> and <strong>MySQL</strong> for the database.</p>
 
 <p>&nbsp;</p>
 <p><strong>SOCIAL IMPACT</strong></p>

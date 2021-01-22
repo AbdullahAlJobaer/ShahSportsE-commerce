@@ -78,12 +78,12 @@
 
 <p><strong>(h) Cart List Page:</strong></p> 
 <p>The added product(s) will show in the Cart list page. It has a remove from cart option and order now option.</p>
-<p align="center"><strong><img src="Images/cartlistpage.png" alt="" width="600" height="200" /></strong></p>
+<p align="center"><strong><img src="Images/cartlistpage.png" alt="" width="700" height="300" /></strong></p>
 <p>&nbsp;</p>
 
 <p><strong>(i) Order-Now Page: </strong></p> 
 <p>When a user decides to order the added products from the cart page he/she can click the Ordernow option and the order-now page will appear with the whole product and delivery details with pricing. User can then type his/her valid address on the address bar and then after selecting the payment method he/she can select the ordernow button and the order will be placed. This will complete the ordering process. The address bar and payment method options are both required field. An order cannot procced without filling these two required fields. When an order is placed successfully the website will redirect to the home page and the cart count will show (0) on the navbar menu.</p>
-<p align="center"><strong><img src="Images/ordernowpage.png" alt="" width="900" height="400" /></strong></p>
+<p align="center"><strong><img src="Images/ordernowpage.png" alt="" width="700" height="300" /></strong></p>
 <p>&nbsp;</p>
 
 

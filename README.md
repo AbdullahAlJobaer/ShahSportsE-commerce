@@ -51,7 +51,7 @@
 
 <p><strong>(d) Login and Logout Functionality with Session:</strong></p> 
 <p>Created a logout route for the Login and logout system and the dropdown menu shows the username when a user logs in.</p>
-<p align="center"><strong><img src="Images/loginsession.png" alt="" width="700" height="300" /></strong></p>
+<p align="center"><strong><img src="Images/loginsession.png" alt="" width="850" height="300" /></strong></p>
 <p>&nbsp;</p>
 
 <p><strong>(e) Logout:</strong></p> 

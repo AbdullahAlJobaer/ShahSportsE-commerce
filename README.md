@@ -1,6 +1,6 @@
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">&nbsp;</p>
-<p align="center"><strong><img src="./Images/homepage.png" alt="" width="307" height="172" /></strong></p>
+<p align="center"><strong><img src="https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg" alt="" width="307" height="172" /></strong></p>
 <p align="center"><strong>North South University</strong></p>
 <p align="center">Department of Electrical &amp; Computer Engineering</p>
 <p align="center"><strong>Project Report</strong></p>
@@ -14,14 +14,21 @@
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1512028042</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:al.jobaer@northsouth.edu">al.jobaer@northsouth.edu</a></p>
 <p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-FA20-CSE299-2/Group14">https://github.com/NSU-FA20-CSE299-2/Group14</a></p>
-<p align="center"><strong>Date Prepared</strong><strong>: </strong>14/11/2020</p>
+<p align="center"><strong>Date Prepared</strong><strong>: </strong>22/01/2021</p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
-<p><strong>INTRODUCTION</strong></p>
-<p> There are so many people (other than the PROs) in Bangladesh specially in Dhaka city who loves to play chess regularly or every now and then. So many are this much passionate about this game that even they would want to buy things and accessories that are all about chess. For example, chess books, chess clocks, chess bags, chess T-shirts and of course along with various types and designs of chess boards and chess pieces.</p>
-<p> The primary goal is to create an eCommerce platform where chess freaks can order and buy their desired products online from any place in our country. Customers have to signup and login before ordering any product. Chess Station will be all about chess. In this station, customer can find everything about chess. A true chess lover will always get excited about this station. Every section of this station is full of chess stuff.</p>
-<p> Chess Station will be an eCommerce website built with latest technologies.</p>
+
+<p><strong>ACKNOWLEDGEMENT</strong></p>
+<p> I would like to thank my faculty Shaikh Shawon Arefin Shimon Sir.</p>
+<p>During the production of this whole project I’ve learned a lot because of his guideline, help and strictness. Without his directions and instructions, I would not be able to pull the project this far alone.</p>
 <p>&nbsp;</p>
+
+
+<p><strong>INTRODUCTION</strong></p>
+<p>In Bangladesh, especially in Dhaka City, there are so many people (other than the PROs) who love to play chess regularly, or every now and then. So many of them are so passionate about this game that they even want to buy stuff and accessories that are all about chess. Chess books, chess clocks, chess bags, chess T-shirts, for example, and, of course, along with different kinds and designs of chess boards and pieces of chess. The main objective was to create a platform for eCommerce where chess freaks can order and purchase their desired products online from anywhere in our country.</p>
+<p> Chess Station is an eCommerce website built with latest technologies.</p>
+<p>&nbsp;</p>
+
 <p><strong>FEATURES</strong></p>
 <ul>
 <li> Simple signup process using personal email account.</li>
@@ -33,11 +40,8 @@
 </ul>
 <p>&nbsp;</p>
 <p><strong>TECHNOLOGY</strong></p>
-<p> Chess Station will be using latest technologies for a user-friendly website.</p>
-<p><em>Frontend</em>: The frontend will be built using HTML, CSS, JavaScript.</p>
-<p><em>Backend</em>: The backend will be built using PHP. PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages. PHP 7 is the latest stable release.</p>
-<p><em>Database</em>: MySQL.</p>
-<p><em>Payment method</em>: Online payment and cash on delivery. Might use bKash payment gateway.</p>
+<p><storng>GitHub</strong> has been used for this project. Used <strong>Basic Kanban Board</storng> of GitHub as the project management tool. For <em>Frontend</em> part, used <strong>HTML5</strong> and <strong>CSS3</strong> and <strong>Bootstrap 3</strong>. Used <strong>VS Code</strong> as IDE. On the other hand, for <em>Backend</em>, used <strong>Laravel Framework</strong> and <strong>MySQL</strong> for the database.</p>
+
 <p>&nbsp;</p>
 <p><strong>SOCIAL IMPACT</strong></p>
 <p>Specially at this COVID-19 pandemic situation, people from all over the country can order chess products from their home just by clicking through some pages. So that they don't have to go to sport markets where people gather. They'll have the product safely delivered at their doorstep. Also, other than COVID-19 situation, all the professional chess players can have quality imported products easily and faster than before. Young promising chess players can grow and encourage others to use the website and know more about chess in an easy way.</p>

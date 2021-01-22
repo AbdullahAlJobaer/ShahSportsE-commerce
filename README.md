@@ -32,6 +32,7 @@
 <p><strong>TECHNOLOGY</strong></p>
 <p>Implemented Technology Stack:</p>
 <p><strong>GitHub</strong> has been used for this project. Used <strong>Basic Kanban Board</strong> of GitHub as the project management tool. For <em>Frontend</em> part, used <strong>HTML5</strong> and <strong>CSS3</strong> and <strong>Bootstrap 3</strong>. Used <strong>VS Code</strong> as IDE. On the other hand, for <em>Backend</em>, used <strong>Laravel Framework</strong> and <strong>MySQL</strong> for the database.</p>
+<p>&nbsp;</p>
 
 <p><strong>PROJECT FEATURES</strong></p>
 <p><strong>(a) Home Page:</strong></p>
@@ -45,7 +46,7 @@
 
 <p><strong>(c) Login Page:</strong></p>
 <p>Login: A user can login by using his email address and password</p>
-<p align="center"><strong><img src="Images/loginpage.png" alt="" width="800" height="500" /></strong></p>
+<p align="center"><strong><img src="Images/loginpage.png" alt="" width="800" height="400" /></strong></p>
 <p>&nbsp;</p>
 
 <p><strong>(d) Login and Logout Functionality with Session:</strong></p> 
@@ -53,15 +54,23 @@
 <p align="center"><strong><img src="Images/loginsession.png" alt="" width="800" height="300" /></strong></p>
 <p>&nbsp;</p>
 
-<p><strong>(b) Single Product Page:</strong></p> 
-<p>A user can click a product and it will go to the single product page.</p>
-<p align="center"><strong><img src="Images/singleproduct.png" alt="" width="800" height="500" /></strong></p>
+<p><strong>(e) Logout:</strong></p> 
+<p>A user can easily logout by clicking the logout button in the dropdown menu (showing the username).</p>
+<p align="center"><strong><img src="Images/logout.png" alt="" width="800" height="300" /></strong></p>
 <p>&nbsp;</p>
 
-<p><strong>(b) Single Product Page:</strong></p> 
-<p>A user can click a product and it will go to the single product page.</p>
-<p align="center"><strong><img src="Images/singleproduct.png" alt="" width="800" height="500" /></strong></p>
+<p><strong>(f) Search Page:</strong></p> 
+<p>A user can search the products by any letter which is between the products’ name. Search page will filter the product searched list. Built the search functionality for the search page, get data from the database, and go to product detail from the search page.</p>
+<p>Type the product or any letter to search</p>
+<p align="center"><strong><img src="Images/search1.png" alt="" width="800" height="300" /></strong></p>
+<p>It will show the search page with searched products</p>
+<p align="center"><strong><img src="Images/search2.png" alt="" width="800" height="400" /></strong></p>
 <p>&nbsp;</p>
+
+
+
+
+
 
 <p><strong>(b) Single Product Page:</strong></p> 
 <p>A user can click a product and it will go to the single product page.</p>

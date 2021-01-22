@@ -34,14 +34,8 @@
 <p><strong>GitHub</strong> has been used for this project. Used <strong>Basic Kanban Board</strong> of GitHub as the project management tool. For <em>Frontend</em> part, used <strong>HTML5</strong> and <strong>CSS3</strong> and <strong>Bootstrap 3</strong>. Used <strong>VS Code</strong> as IDE. On the other hand, for <em>Backend</em>, used <strong>Laravel Framework</strong> and <strong>MySQL</strong> for the database.</p>
 
 <p><strong>PROJECT FEATURES</strong></p>
-<Ol>
-<li> Simple signup process using personal email account.</li>
-<li> Customizable profile &ndash customers can update their basic and contact information.</li>
-<li> Customer can see their shopping and transaction history and details in profile section.</li>
-<li> A customer can search the products using product names in the search bar.</li>
-<li> Chess Station website will have an admin panel where the admin(s) will have the full power over the whole system. This includes edit the status of an order and delete an order, create a product (having edit and delete options).</li>
-<li> There will be a dashboard section where admin can see the information of whole system.</li>
-</Ol>
+<p>(a) Home Page:</p>
+<p align="center"><strong><img src="./homepage.png" alt="" width="500" height="300" /></strong></p>
 <p>&nbsp;</p>
 
 

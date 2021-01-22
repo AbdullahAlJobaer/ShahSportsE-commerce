@@ -78,7 +78,7 @@
 
 <p><strong>(h) Cart List Page:</strong></p> 
 <p>The added product(s) will show in the Cart list page. It has a remove from cart option and order now option.</p>
-<p align="center"><strong><img src="Images/cartlistpage.png" alt="" width="700" height="200" /></strong></p>
+<p align="center"><strong><img src="Images/cartlistpage.png" alt="" width="600" height="200" /></strong></p>
 <p>&nbsp;</p>
 
 <p><strong>(i) Order-Now Page: </strong></p> 

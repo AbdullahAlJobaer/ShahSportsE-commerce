@@ -41,7 +41,7 @@
 
 <p><strong>(b) Single Product Page:</strong></p> 
 <p>A user can click a product and it will go to the single product page.</p>
-<p align="center"><strong><img src="Images/singleproduct.png" alt="" width="700" height="300" /></strong></p>
+<p align="center"><strong><img src="Images/singleproduct.png" alt="" width="780" height="260" /></strong></p>
 <p>&nbsp;</p>
 
 <p><strong>(c) Login Page:</strong></p>

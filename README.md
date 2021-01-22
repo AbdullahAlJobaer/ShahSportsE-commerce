@@ -89,8 +89,6 @@
 <p align="center"><strong><img src="Images/ordernowpage.png" alt="" width="850" height="260" /></strong></p>
 <p>&nbsp;</p>
 
-
-<p>&nbsp;</p>
 <p><strong>FUTURE WORKS AND PLAN</strong></p>
 <p>As this project is not ready yet to run for the production for the business plan that discussed in the project proposal, I would like to work on the development of remaining areas that need to be done to make it up-and-running for the primary goal for which it was proposed in the first place.</p>
 <p>I would like to develop the remaining features like: user registration, admin panel, dashboard section in the admin panel where admin can see the information of whole system, payment methods, add payment gateway (i.e., bKash) for the successful online order and transaction.</p>

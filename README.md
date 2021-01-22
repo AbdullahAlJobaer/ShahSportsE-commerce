@@ -32,8 +32,8 @@
 <p><strong>TECHNOLOGY</strong></p>
 <p>Implemented Technology Stack:</p>
 <p><strong>GitHub</strong> has been used for this project. Used <strong>Basic Kanban Board</strong> of GitHub as the project management tool. Used <strong>VS Code</strong> as IDE.</p> 
-<p><em>Frontend</em>:<strong>HTML5</strong>, <strong>CSS3</strong> and <strong>Bootstrap 3</strong></p>
-<p><em>Backend</em>:<strong>Laravel Framework</strong> and <strong>MySQL</strong> for the database.</p>
+<p><em>Frontend</em>: <strong>HTML5</strong>, <strong>CSS3</strong> and <strong>Bootstrap 3</strong></p>
+<p><em>Backend</em>: <strong>Laravel Framework</strong> and <strong>MySQL</strong> for the database.</p>
 <p>&nbsp;</p>
 
 <p><strong>PROJECT FEATURES</strong></p>

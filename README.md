@@ -1,6 +1,6 @@
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">&nbsp;</p>
-<p align="center"><strong><img src="https://drive.google.com/file/d/1Zua-oAaQ5yBapQ11i3UUdsKyLwLY7uoj/view?usp=sharing" alt="" width="307" height="172" /></strong></p>
+<p align="center"><strong><img src="./Images/homepage.png" alt="" width="307" height="172" /></strong></p>
 <p align="center"><strong>North South University</strong></p>
 <p align="center">Department of Electrical &amp; Computer Engineering</p>
 <p align="center"><strong>Project Report</strong></p>

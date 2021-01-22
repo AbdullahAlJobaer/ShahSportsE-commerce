@@ -36,7 +36,7 @@
 
 <p><strong>PROJECT FEATURES</strong></p>
 <p><strong>(a) Home Page:</strong></p>
-<p align="center"><strong><img src="Images/homepage.png" alt="" width="700" height="500" /></strong></p>
+<p align="center"><strong><img src="Images/homepage.png" alt="" width="700" height="400" /></strong></p>
 <p>&nbsp;</p>
 
 <p><strong>(b) Single Product Page:</strong></p> 

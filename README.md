@@ -46,7 +46,7 @@
 
 <p><strong>(c) Login Page:</strong></p>
 <p>Login: A user can login by using his email address and password</p>
-<p align="center"><strong><img src="Images/Loginpage.png" alt="" width="700" height="400" /></strong></p>
+<p align="center"><strong><img src="Images/Loginpage.png" alt="" width="750" height="400" /></strong></p>
 <p>&nbsp;</p>
 
 <p><strong>(d) Login and Logout Functionality with Session:</strong></p> 

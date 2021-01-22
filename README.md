@@ -34,11 +34,45 @@
 <p><strong>GitHub</strong> has been used for this project. Used <strong>Basic Kanban Board</strong> of GitHub as the project management tool. For <em>Frontend</em> part, used <strong>HTML5</strong> and <strong>CSS3</strong> and <strong>Bootstrap 3</strong>. Used <strong>VS Code</strong> as IDE. On the other hand, for <em>Backend</em>, used <strong>Laravel Framework</strong> and <strong>MySQL</strong> for the database.</p>
 
 <p><strong>PROJECT FEATURES</strong></p>
-<p>(a) Home Page:</p>
+<p><strong>(a) Home Page:</strong></p>
 <p align="center"><strong><img src="Images/homepage.png" alt="" width="800" height="500" /></strong></p>
 <p>&nbsp;</p>
 
+<p><strong>(b) Single Product Page:</strong></p> 
+<p>A user can click a product and it will go to the single product page.</p>
+<p align="center"><strong><img src="Images/singleproduct.png" alt="" width="800" height="500" /></strong></p>
+<p>&nbsp;</p>
 
+<p><strong>(c) Login Page:</strong></p>
+<p>Login: A user can login by using his email address and password</p>
+<p align="center"><strong><img src="Images/loginpage.png" alt="" width="800" height="500" /></strong></p>
+<p>&nbsp;</p>
+
+<p><strong>(d) Login and Logout Functionality with Session:</strong></p> 
+<p>Created a logout route for the Login and logout system and the dropdown menu shows the username when a user logs in.</p>
+<p align="center"><strong><img src="Images/loginsession.png" alt="" width="800" height="500" /></strong></p>
+<p>&nbsp;</p>
+
+<p><strong>(b) Single Product Page:</strong></p> 
+<p>A user can click a product and it will go to the single product page.</p>
+<p align="center"><strong><img src="Images/singleproduct.png" alt="" width="800" height="500" /></strong></p>
+<p>&nbsp;</p>
+
+<p><strong>(b) Single Product Page:</strong></p> 
+<p>A user can click a product and it will go to the single product page.</p>
+<p align="center"><strong><img src="Images/singleproduct.png" alt="" width="800" height="500" /></strong></p>
+<p>&nbsp;</p>
+
+<p><strong>(b) Single Product Page:</strong></p> 
+<p>A user can click a product and it will go to the single product page.</p>
+<p align="center"><strong><img src="Images/singleproduct.png" alt="" width="800" height="500" /></strong></p>
+<p>&nbsp;</p>
+
+
+<p><strong>(b) Single Product Page:</strong></p> 
+<p>A user can click a product and it will go to the single product page.</p>
+<p align="center"><strong><img src="Images/singleproduct.png" alt="" width="800" height="500" /></strong></p>
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 <p><strong>SOCIAL IMPACT</strong></p>

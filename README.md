@@ -36,12 +36,12 @@
 
 <p><strong>PROJECT FEATURES</strong></p>
 <p><strong>(a) Home Page:</strong></p>
-<p align="center"><strong><img src="Images/homepage.png" alt="" width="800" height="500" /></strong></p>
+<p align="center"><strong><img src="Images/homepage.png" alt="" width="700" height="500" /></strong></p>
 <p>&nbsp;</p>
 
 <p><strong>(b) Single Product Page:</strong></p> 
 <p>A user can click a product and it will go to the single product page.</p>
-<p align="center"><strong><img src="Images/singleproduct.png" alt="" width="800" height="300" /></strong></p>
+<p align="center"><strong><img src="Images/singleproduct.png" alt="" width="700" height="300" /></strong></p>
 <p>&nbsp;</p>
 
 <p><strong>(c) Login Page:</strong></p>

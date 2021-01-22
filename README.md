@@ -56,15 +56,15 @@
 
 <p><strong>(e) Logout:</strong></p> 
 <p>A user can easily logout by clicking the logout button in the dropdown menu (showing the username).</p>
-<p align="center"><strong><img src="Images/logout.png" alt="" width="700" height="300" /></strong></p>
+<p align="center"><strong><img src="Images/logout.png" alt="" width="850" height="300" /></strong></p>
 <p>&nbsp;</p>
 
 <p><strong>(f) Search Page:</strong></p> 
 <p>A user can search the products by any letter which is between the products’ name. Search page will filter the product searched list. Built the search functionality for the search page, get data from the database, and go to product detail from the search page.</p>
 <p>Type the product or any letter to search:</p>
-<p align="center"><strong><img src="Images/search1.png" alt="" width="700" height="300" /></strong></p>
+<p align="center"><strong><img src="Images/search1.png" alt="" width="850" height="300" /></strong></p>
 <p>It will show the search page with searched products:</p>
-<p align="center"><strong><img src="Images/Search2.png" alt="" width="700" height="400" /></strong></p>
+<p align="center"><strong><img src="Images/Search2.png" alt="" width="850" height="400" /></strong></p>
 <p>&nbsp;</p>
 
 
@@ -72,7 +72,7 @@
 <p>A user can add products using the add to cart button in the single product page. Also Added the functionality to show the number count of product(s) added to cart. Anyone can browse the website and see the products but if he/clicks the add to cart button the website will redirect to its login page to force the user to login first.</p>
 <p align="center"><strong><img src="Images/addtocart.png" alt="" width="700" height="260" /></strong></p>
 <p>Also Added the functionality to show the number count of product(s) added to cart:</p>
-<p align="center"><strong><img src="Images/cartcount.png" alt="" width="700" height="300" /></strong></p>
+<p align="center"><strong><img src="Images/cartcount.png" alt="" width="850" height="300" /></strong></p>
 <p>&nbsp;</p>
 
 
